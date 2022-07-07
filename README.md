@@ -1,0 +1,2 @@
+# GradientAdaptiveResamplingPINN
+使用梯度来进行自适应采样PINN
